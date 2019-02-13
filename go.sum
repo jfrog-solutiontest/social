@@ -1,0 +1,7 @@
+github.com/jfrog-solutiontest/employee v0.0.0-20190213212632-a9304022cab2/go.mod h1:sMKyVBWLz/5VMX+GvpkWVjxnS1Y6rDTL75ndc9RyNDs=
+github.com/jfrog-solutiontest/employee v1.0.0 h1:LjGbrVRVYNn33q1gG0TlrRW0DXSTKv246WuODhrXey0=
+github.com/jfrog-solutiontest/employee v1.0.0/go.mod h1:b3338QuSrJzRyPQ0f/ajvqZIdIVER/u0E4pZYRRP+PQ=
+github.com/jfrog-solutiontest/employee v1.0.1-0.20190213232131-2c9b69b5e9eb h1:WkXwCvK9Ggw9mv2a4Wc3AqH/9PEPcRNabF5CQ9aeDBQ=
+github.com/jfrog-solutiontest/employee v1.0.1-0.20190213232131-2c9b69b5e9eb/go.mod h1:1cXEN1/lqAUXLWgKDcyml3KgoD4XMM4F6MDTMChzpic=
+github.com/jfrog-solutiontest/employer v1.0.0/go.mod h1:+HJ+IN62NaXWtJEoKt4pEuKMd90lrwa4vG1w9Y1TKPM=
+github.com/jfrog-solutiontest/employer v1.1.0/go.mod h1:g39uHSmGIf5NoSnzrY1QZMgLmEKFfv2eo4lye79nuP0=
