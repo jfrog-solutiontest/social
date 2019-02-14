@@ -2,12 +2,12 @@ package social
 
 import (
     "fmt"
-    "github.com/jfrog-solutiontest/employee"
+    "github.com/jfrog-solutiontest/employer"
 )
 
 
 func presidentPackageName () {
 	fmt.Println ("Package Name: president")
-        employee.sdet()
+        employer.SDETEmployerPackageName()
 }
 
